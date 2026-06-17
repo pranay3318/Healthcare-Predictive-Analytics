@@ -1,4 +1,4 @@
-# Healthcare-Predictive-Analytics
+# Healthcare-Predictive-Analytics.
 
 A comprehensive machine learning solution for predictive healthcare analytics, enabling data-driven insights into patient health outcomes and disease prediction.
 
